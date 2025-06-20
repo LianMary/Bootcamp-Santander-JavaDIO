@@ -7,5 +7,4 @@ Deixareis, conforme sigo o curso, as marcações de tópicos estudados.
 4. API
 5. Boas Práticas 
 6. Integração com banco de dados
-7. Desenvolvimento Orientadoi a testes 
-
+7. Desenvolvimento Orientado a testes 
