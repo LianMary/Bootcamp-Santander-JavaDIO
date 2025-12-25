@@ -1,5 +1,4 @@
 import java.util.Scanner;
-package Sintax;
 
 public class SintaxBasica {
     /* Escreva um código que receba o nome e o ano de nascimento de alguém
@@ -20,5 +19,6 @@ public class SintaxBasica {
         int idade = 2025 - anoNascimento;
 
         System.out.println("Olá " + nome + " você tem " + idade + " anos");
+        entra.close();
     }
 }
